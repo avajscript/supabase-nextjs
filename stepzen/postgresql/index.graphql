@@ -1,0 +1,5 @@
+type Anecdote {
+  content: String!
+  id: ID!
+  title: String!
+}
